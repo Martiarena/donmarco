@@ -1087,7 +1087,7 @@ ul.single-offer-category-filter li {
 
 .single-offer-details {
     float: left;
-    width: 420px;
+    width: 400px;
 	margin-right: 10px;
 }
 
@@ -1095,7 +1095,7 @@ ul.single-offer-category-filter li {
 
 .single-offer-price {
     float: left;
-    width: 80px;
+    width: 100px;
     font-size: 30px;
     color: #cd242b;
     font-family: 'Patua One', cursive;
@@ -1204,7 +1204,7 @@ ul.sf-menu li ul li a {
 .mobile-menu-wrapper {
 	width: 100%;
 	height: auto;
-	background: rgba(0,0,0,0.85);
+	background: rgba(35,61,46,0.85);
 	display: none;
 	position: absolute;
 	height: auto;
@@ -1244,7 +1244,7 @@ ul.sf-menu li ul li a {
     padding: 12px 20px 10px;
     display: block;
     color: #fcf6ec;
-    border-bottom: 1px solid #000;
+    border-bottom: 1px solid #233d2e;
     font-size: 14px;
     text-transform: uppercase;
     font-family: 'Patua One', cursive;
@@ -1402,7 +1402,7 @@ ul.sf-menu li ul li a {
 .footer2 {
     display: none;
     width: 100%;
-    background: #000;
+    background: #233d2e;
     position: relative;
     float: left;
 }
@@ -1483,7 +1483,7 @@ ul.sf-menu li ul li a {
 }
 
 .albertos-contact-form input.wpcf7-submit {
-	color: #242424;
+	color: #ffffff;
 	font-size: 14px;
 	text-transform: uppercase;
 	background: #cd242b;
