@@ -4,10 +4,10 @@
  * version 1.0(31-OCT-2011)
  * 
  * Built on top of the jQuery library
- *   https://jquery.com
+ *   http://jquery.com
  * 
  * Documentation
- * 	 https://github.com/mambows/mobilemenu
+ * 	 http://github.com/mambows/mobilemenu
  */
 (function($){
 $.fn.mobileMenu = function(options) {

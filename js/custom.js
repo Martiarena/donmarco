@@ -530,7 +530,7 @@ jQuery(window).load(function(){
 (function($,sr){
 
   // debouncing function from John Hann
-  // https://unscriptable.com/index.php/2009/03/20/debouncing-javascript-methods/
+  // http://unscriptable.com/index.php/2009/03/20/debouncing-javascript-methods/
   var debounce = function (func, threshold, execAsap) {
       var timeout;
 
@@ -633,7 +633,7 @@ jQuery(window).load(function(){
 (function($,sr){
 
   // debouncing function from John Hann
-  // https://unscriptable.com/index.php/2009/03/20/debouncing-javascript-methods/
+  // http://unscriptable.com/index.php/2009/03/20/debouncing-javascript-methods/
   var debounce = function (func, threshold, execAsap) {
       var timeout;
 
@@ -694,7 +694,7 @@ jQuery(function(){
 (function($,sr){
 
   // debouncing function from John Hann
-  // https://unscriptable.com/index.php/2009/03/20/debouncing-javascript-methods/
+  // http://unscriptable.com/index.php/2009/03/20/debouncing-javascript-methods/
   var debounce = function (func, threshold, execAsap) {
       var timeout;
 
