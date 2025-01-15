@@ -3,3 +3,27 @@
         display: none;
     }
 }
+
+.single-offer-price {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+}
+
+.single-offer-menu2-price {
+    display: flex;
+    align-items: flex-start;
+}
+
+.single-offer-price sup, .single-offer-menu2-price sup {
+    color: #cd242b;
+    font-weight: bold;
+    font-size: 1.5rem;
+    line-height: 1.2;
+}
+
+.single-offer-menu2-price sup {
+    color:#9b040c;
+    font-size: 1.3rem;
+    line-height: 1.2;
+}
